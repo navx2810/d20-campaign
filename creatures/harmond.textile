@@ -4,6 +4,4 @@ h2. The main baddie
 
 bq. His stern posture and dead eyes gives you the impression that this guy is far-gone.
 
-|_. Armor Class| 15 ("Studded Leather":sl) |
-
-[sl]"items/short sword.textile"
+|_. Armor Class| 15 ("Studded Leather":"items/short sword.textile") |
