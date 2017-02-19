@@ -1,0 +1,12 @@
+h1. Card :: Keeper
+
+An application to store all of your cards.
+
+h2. Abilities
+
+|_. str|_. dex|_. con|_. int|_. wis|_. cha|
+|13|12|10|8|4|10|
+
+h2. Commands
+
+- dev := use an extreme command to do some shit
