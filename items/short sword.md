@@ -1,12 +1,18 @@
 # Short Sword
 
-<dl>
-    <dt>Damage</dt>
-    <dd>d6</dd>
+<table>
+    <tr>
+        <td>Damage</td>
+        <td>d6</td>
+    </tr>
 
-    <dt>Range</dt>
-    <dd>5ft</dd>
+    <tr>
+        <td>Range</td>
+        <td>5ft</td>
+    </tr>
 
-    <dt>Cost</dt>
-    <dd>15gp</dd>
-</dl>
+    <tr>
+        <td>Cost</td>
+        <td>15gp</td>
+    </tr>
+</table>
