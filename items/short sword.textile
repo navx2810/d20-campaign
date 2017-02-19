@@ -1,0 +1,10 @@
+h1. Short Sword
+
+bq. A trusty and reliable weapon, for when you realllllly need one.
+
+|_. Damage| d6 |
+|_. Reach| 5ft |
+|_. Cost|30gp|
+
+- Finesse := can use either **strength** or **dex** for the hit check
+- Light := can operate in one hand
